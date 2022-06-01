@@ -1,6 +1,6 @@
-#include "TestClearColor.h"
+#include <GL/glew.h>
 
-#include "GL/glew.h"
+#include "TestClearColor.h"
 
 #include "Renderer.h"
 #include "imgui/imgui.h"
